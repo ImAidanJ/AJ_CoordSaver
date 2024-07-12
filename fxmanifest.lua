@@ -5,9 +5,6 @@
 -- |___|_| |_| |_/_/   \_\_|\__,_|\__,_|_| |_|\___/ 
 -- 
 
--- Support: https://discord.gg/ehp4yJUqgj
-
-
 fx_version 'cerulean'
 game 'gta5'
 

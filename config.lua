@@ -5,10 +5,6 @@
 -- |___|_| |_| |_/_/   \_\_|\__,_|\__,_|_| |_|\___/ 
 -- 
 
-
--- Support: https://discord.gg/ehp4yJUqgj
-
-
 Config = {}
 
 Config.UseAcePermissions = true -- Set to true to turn them on
